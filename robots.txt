@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://shermz-lim.github.io/sitemap.xml
